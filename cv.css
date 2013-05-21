@@ -1,0 +1,24 @@
+/*
+---------------------------------------------------------------------------------
+    markdown resume template
+
+    see https://github.com/melmi/cv/ for details
+---------------------------------------------------------------------------------
+*/
+
+body { font-family: Georgia; color: #444; }
+div#header, div.section.level1 { width:800px; padding: 10px 80px; margin: 0px auto; background: #f5f5f5;/*border-bottom: 1px solid #ccc;*/}
+div.section.level1 {overflow:hidden;}
+div#header {margin-top: 40px; border-top: 8px solid #ccc;padding-top: 1.5em;padding-bottom: 1.5em;}
+div.section.level1 h1 {width:20%;float:left;}
+p{clear:both;padding-bottom: 1.0em;}
+div.section.level2{width:80%;margin:0px;float:right;}
+
+.title { font-size: 48px; text-transform: uppercase; letter-spacing: 3px; }
+.section.level1 h1, .section.level1 h2 { font-size: 20px;font-style: italic; padding-bottom: 0.5em;}
+h1, h2 { color: #333; }
+p { font-size: 100%; line-height: 18px; padding-right: 3em; }
+a { color: #990003;text-decoration: none;  }
+a:hover { text-decoration: underline; }
+strong { font-weight: bold; }
+
