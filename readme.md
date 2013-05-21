@@ -1,4 +1,4 @@
-My CV in markdown. It is an effort to generate nice html resume from a markdown file.
+My CV in markdown. It is also an effort to generate a nice html resume from markdown.
 
 The CSS I made tries to mimic `STRIPPED DOWN RESUME TEMPLATE` by [Matt Brown](http://thingsthatarebrown.com/). 
 
