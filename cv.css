@@ -2,7 +2,7 @@
 ---------------------------------------------------------------------------------
     markdown resume template
 
-    see https://github.com/melmi/cv/ for details
+    see https://github.com/melmi/markdowncv/ for details
 ---------------------------------------------------------------------------------
 */
 
@@ -13,6 +13,7 @@ div#header {margin-top: 40px; border-top: 8px solid #ccc;padding-top: 1.5em;padd
 div.section.level1 h1 {width:20%;float:left;}
 p{clear:both;padding-bottom: 1.0em;}
 div.section.level2{width:80%;margin:0px;float:right;}
+div.section.level1:last-of-type{margin-bottom:40px;border-bottom: 3px solid #ccc;}
 
 .title { font-size: 48px; text-transform: uppercase; letter-spacing: 3px; }
 .section.level1 h1, .section.level1 h2 { font-size: 20px;font-style: italic; padding-bottom: 0.5em;}
